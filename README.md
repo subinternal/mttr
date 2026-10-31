@@ -7,6 +7,8 @@
 <a href="LICENSE"><img alt="MIT license" src="https://img.shields.io/badge/license-MIT-eab308"></a>
 </p>
 
+> **Moved to [subinternal/clickd](https://github.com/subinternal/clickd).** mttr is now clickd. This repository is archived: it still installs, but new versions of the skills are only there. Install them with `npx skills add subinternal/clickd`, or in Claude Code with `/plugin install clickd --marketplace subinternal/clickd`. The MCP tools keep their names, so nothing you've connected breaks.
+
 <p align="center"><b>Agent skills that read your site the way search engines and AI assistants do,<br>fix it in your own code, and read it again to prove what moved.</b></p>
 
 <p align="center"><a href="https://mttr.si">mttr.si</a> &nbsp;&nbsp; <a href="https://mttr.si/leaderboard">Leaderboard</a> &nbsp;&nbsp; <a href="https://mttr.si/tools">Free tools</a> &nbsp;&nbsp; <a href="https://mttr.si/docs/reference">API and MCP</a></p>
