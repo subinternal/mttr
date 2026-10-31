@@ -1,0 +1,11 @@
+{
+  "name": "mttr",
+  "version": "1.0.0",
+  "description": "Check and fix a site for search engines and AI assistants. Six skills read the site the way they do, make the fixes worth the most in your own code, and read it again to show what moved. Connects to mttr's MCP server for the full brief and re-reads on demand.",
+  "author": { "name": "subinternal", "url": "https://mttr.si" },
+  "homepage": "https://mttr.si/agents",
+  "privacyPolicyUrl": "https://mttr.si/privacy",
+  "repository": "https://github.com/subinternal/mttr",
+  "license": "MIT",
+  "keywords": ["seo", "geo", "ai-search", "llms-txt", "structured-data", "mcp"]
+}

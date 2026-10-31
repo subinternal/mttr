@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "mttr": {
+      "type": "http",
+      "url": "https://mttr.si/mcp",
+      "headers": { "Authorization": "Bearer ${MTTR_KEY}" }
+    }
+  }
+}
